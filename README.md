@@ -95,7 +95,7 @@ I love **turning small ideas into clean, fast, useful tools** that everyone can 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xsparvin&theme=react-dark&hide_border=true&area=true" width="90%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xsparvin&theme=nord&hide_border=true&area=true" width="90%" alt="GitHub Activity Graph" />
 </p>
 
 ---
